@@ -39,7 +39,7 @@ conda update conda
 ```
 then
 ```bash
-conda create -n apexmf_pest python=3.7 jupyter notebook
+conda create -n apexmf_pest python=3.9 jupyter notebook
 ```
 - Activate the apexmf_pest environment
 ```bash
