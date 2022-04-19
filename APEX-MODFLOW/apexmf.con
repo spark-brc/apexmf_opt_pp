@@ -1,0 +1,20 @@
+# apexmf.con created by apexmf
+wd	D:\Workshops\20220419_apexmf_opt\APEX-MODFLOW
+mfwd	D:\Workshops\20220419_apexmf_opt\APEX-MODFLOW\MODFLOW
+sim_start	1/1/2002
+cal_start	1/1/2002
+cal_end	12/31/2002
+cha_file	SITE75.RCH
+subs	[12, 57, 75]
+gw_level	y
+grids	[5895, 6273]
+lai_file	n
+lai_subs	n
+riv_parm	n
+baseflow	n
+fdc	n
+min_fdc	10
+max_fdc	90
+interval_num	20
+time_step	month
+pp_included	['hk0pp.dat', 'sy0pp.dat']

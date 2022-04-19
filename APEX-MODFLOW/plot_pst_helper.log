@@ -1,0 +1,19 @@
+2022-04-18 20:18:22.374728 starting: opening plot_pst_helper.log for logging
+2022-04-18 20:18:22.374728 plot_utils.pst_helper()
+2022-04-18 20:18:22.374728 starting: plot res_1to1
+2022-04-18 20:18:22.375726 starting: plotting 1to1 for gw_098
+2022-04-18 20:18:22.376738 using control file obsvals to calculate residuals
+2022-04-18 20:18:22.495774 finished: plotting 1to1 for gw_098 took: 0:00:00.120048
+2022-04-18 20:18:22.495774 starting: plotting 1to1 for gw_124
+2022-04-18 20:18:22.496775 using control file obsvals to calculate residuals
+2022-04-18 20:18:22.505776 finished: plotting 1to1 for gw_124 took: 0:00:00.010002
+2022-04-18 20:18:22.505776 starting: plotting 1to1 for stf_012
+2022-04-18 20:18:22.506777 using control file obsvals to calculate residuals
+2022-04-18 20:18:22.513781 finished: plotting 1to1 for stf_012 took: 0:00:00.008005
+2022-04-18 20:18:22.513781 starting: plotting 1to1 for stf_057
+2022-04-18 20:18:22.514782 using control file obsvals to calculate residuals
+2022-04-18 20:18:22.522783 finished: plotting 1to1 for stf_057 took: 0:00:00.009002
+2022-04-18 20:18:22.522783 starting: plotting 1to1 for stf_075
+2022-04-18 20:18:22.522783 using control file obsvals to calculate residuals
+2022-04-18 20:18:22.791478 finished: plotting 1to1 for stf_075 took: 0:00:00.268695
+2022-04-18 20:18:22.841455 finished: plot res_1to1 took: 0:00:00.466727
