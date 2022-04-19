@@ -21,7 +21,7 @@ You essentially have 2 options:
 
     ```bash
     git clone https://github.com/spark-brc/apexmf_opt_pp.git
-        
+    ```
 ## Installation
 To execute jupyter notebook, we need the Anaconda environment.
 
