@@ -27,7 +27,7 @@ To execute jupyter notebook, we need the Anaconda environment.
 
 #### 1. Anaconda Python:
 - If you don’t already have Anaconda Python installed, please install from this link:https://conda.io/miniconda.html (miniconda: anaconda light version) or https://repo.anaconda.com/archive/Anaconda3-2021.11-Windows-x86_64.exe (anaconda)
-- Select the Python 3.7 version (if available). 
+- Select the Python 3.9 version (if available). 
     * Important - on Windows, choose option to install “for this user only” (Note, if you already have Anaconda installed, just skip to the next step which you will still need to run)
 
 #### 2. Set Environment and install libraries:
