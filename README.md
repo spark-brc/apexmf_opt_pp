@@ -1,10 +1,10 @@
-# APEX-MODFLOW model with PEST
+# APEX-MODFLOW model with PEST (Pilot Point approach)
 
 ## Get data and jupyter notebooks
 You essentially have 2 options:
 
 #### - Easy way
-- [Download the data zip file](https://github.com/spark-brc/2022_APEXMF_PEST/archive/refs/heads/main.zip)
+- [Download the data zip file](https://github.com/spark-brc/apexmf_opt_pp/archive/refs/heads/main.zip)
 - Unzip it to a prefered location.
 - After unzipping the archive file, unzip the "SWAT-MODFLOW" model zip file too.
 
@@ -20,8 +20,7 @@ You essentially have 2 options:
     - Clone the materials by executing the following in the git bash or terminal window:    
 
     ```bash
-    git clone https://github.com/spark-brc/2022_APEXMF_PEST.git
-    ```  
+    git clone https://github.com/spark-brc/apexmf_opt_pp.git
         
 ## Installation
 To execute jupyter notebook, we need the Anaconda environment.
@@ -48,13 +47,17 @@ conda activate apexmf_pest
 ```
 - Finally, install libraries 
 ```bash
-pip install numpy scipy xlrd pandas matplotlib ipywidgets pillow flopy pyemu
+pip install apexmf
 ```
 
 Then change directory into the example folder or drive:  
 - Change directory (example)
 ```bash
-cd 2022_APEXMF_PEST-main 
+cd apexmf_opt_pp-main 
+```  
+or just directory where you downloaded the material
+```bash
+d: 
 ```  
 - Launch jupyter notebook 
 ```bash
